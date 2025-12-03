@@ -110,7 +110,7 @@ A seguir, resumo dos principais números extraídos do relatório de comparaçã
 
 ---
 
-**Observações interpretativas: **
+**Observações interpretativas:**
 
 * O **ERX (Edge Recombination)** provou ser o operador mais eficiente na nossa replicação em instâncias médias e grandes — diferença atribuída à representação Giant Tour + Split que preserva arestas e garante viabilidade.
 * O **Rank** exhibitou comportamento ruim em grandes instâncias na nossa versão, provavelmente por convergência prematura associada à mutação simplificada (apenas Swap).
@@ -122,5 +122,5 @@ A seguir, resumo dos principais números extraídos do relatório de comparaçã
 ## Referências
 
 * Ochelska-Mierzejewska, J.; Poniszewska-Marańda, A.; Marańda, W. Selected Genetic Algorithms for Vehicle Routing Problem Solving. Electronics 2021, 10, 3147.
-* Relatório deste repositório: `Comparação_AcMsF.pdf`. 
+* Relatório deste repositório: `Comparação AcMsF.pdf`. 
 
